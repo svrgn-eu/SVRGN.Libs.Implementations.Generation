@@ -1,7 +1,7 @@
 ﻿using SVRGN.Libs.Contracts.Generation;
 using SVRGN.Libs.Contracts.Service.Logging;
 using SVRGN.Libs.Contracts.Service.Object;
-using SVRGN.Libs.Contracts.TextParsing;
+using SVRGN.Libs.Contracts.Service.TextParsing;
 using System;
 using System.Collections.Generic;
 using System.Linq;
